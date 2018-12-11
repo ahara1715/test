@@ -3,4 +3,4 @@
 piyopiyo
 
 featureだよー
-feature2だ
+feature2だ!!
