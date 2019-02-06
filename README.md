@@ -4,7 +4,7 @@ piyopiyo
 
 - featureだよー
 - feature2だ!!
-- feature3だがね
+- feature3でんがな
 
 feature1やってみた
 
