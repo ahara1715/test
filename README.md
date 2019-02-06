@@ -2,8 +2,9 @@
 ## fuga!
 piyopiyo
 
-featureだよー
-feature2だ!!
+- featureだよー
+- feature2だ!!
+- feature3だがね
 
 feature1やってみた
 
