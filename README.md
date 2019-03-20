@@ -9,3 +9,5 @@ piyopiyo
 feature1やってみた
 
 feature2だがね
+
+develop直接更新だ！
